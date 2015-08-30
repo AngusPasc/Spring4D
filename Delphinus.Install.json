@@ -1,0 +1,131 @@
+{
+    "browsing_pathes": 
+    [
+        {
+            "pathes": "Source\\Base;Source\\Base\\Collections;Source\\Base\\Reflection;Source\\Core\\Services;Source\\Core\\Container;Source\\Extensions\\Utils;Source\\Extensions\\Cryptography",
+            "platforms": "Win32;Win64;OSX32"
+        }
+    ],
+    "source_folders":
+    [
+        {
+		    "folder": ".",
+			"filter": "Credits.txt;License.txt"			
+        },
+        {
+		    "folder": "Samples",
+            "recursive": true
+        },
+        {
+		    "folder": "Packages",
+            "recursive": true
+        },
+        {
+		    "folder": "Source",
+            "recursive": true
+        },
+        {
+		    "folder": "Tests",
+            "recursive": true
+        }
+    ],
+    "projects":
+    [
+        {
+            "project": "Packages\\DelphiXE\\Spring.Base.dproj",
+            "compiler": 22
+        },
+        {
+            "project": "Packages\\DelphiXE\\Spring.Core.dproj",
+            "compiler": 22
+        },
+        {
+            "project": "Packages\\DelphiXE\\Spring.Extensions.dproj",
+            "compiler": 22
+        },
+        {
+            "project": "Packages\\DelphiXE2\\Spring.Base.dproj",
+            "compiler": 23
+        },
+        {
+            "project": "Packages\\DelphiXE2\\Spring.Core.dproj",
+            "compiler": 23
+        },
+        {
+            "project": "Packages\\DelphiXE2\\Spring.Extensions.dproj",
+            "compiler": 23
+        },
+        {
+            "project": "Packages\\DelphiXE3\\Spring.Base.dproj",
+            "compiler": 24
+        },
+        {
+            "project": "Packages\\DelphiXE3\\Spring.Core.dproj",
+            "compiler": 24
+        },
+        {
+            "project": "Packages\\DelphiXE3\\Spring.Extensions.dproj",
+            "compiler": 24
+        },
+        {
+            "project": "Packages\\DelphiXE4\\Spring.Base.dproj",
+            "compiler": 25
+        },
+        {
+            "project": "Packages\\DelphiXE4\\Spring.Core.dproj",
+            "compiler": 25
+        },
+        {
+            "project": "Packages\\DelphiXE4\\Spring.Extensions.dproj",
+            "compiler": 25
+        },
+        {
+            "project": "Packages\\DelphiXE5\\Spring.Base.dproj",
+            "compiler": 26
+        },
+        {
+            "project": "Packages\\DelphiXE5\\Spring.Core.dproj",
+            "compiler": 26
+        },
+        {
+            "project": "Packages\\DelphiXE5\\Spring.Extensions.dproj",
+            "compiler": 26
+        },
+        {
+            "project": "Packages\\DelphiXE6\\Spring.Base.dproj",
+            "compiler": 27
+        },
+        {
+            "project": "Packages\\DelphiXE6\\Spring.Core.dproj",
+            "compiler": 27
+        },
+        {
+            "project": "Packages\\DelphiXE6\\Spring.Extensions.dproj",
+            "compiler": 27
+        },
+        {
+            "project": "Packages\\DelphiXE7\\Spring.Base.dproj",
+            "compiler": 28
+        },
+        {
+            "project": "Packages\\DelphiXE7\\Spring.Core.dproj",
+            "compiler": 28
+        },
+        {
+            "project": "Packages\\DelphiXE7\\Spring.Extensions.dproj",
+            "compiler": 28
+        },
+        {
+            "project": "Packages\\DelphiXE8\\Spring.Base.dproj",
+            "compiler": 29
+        },
+        {
+            "project": "Packages\\DelphiXE8\\Spring.Core.dproj",
+            "compiler": 29
+        },
+        {
+            "project": "Packages\\DelphiXE8\\Spring.Extensions.dproj",
+            "compiler": 29
+        }
+    ]
+}
